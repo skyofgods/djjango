@@ -1,0 +1,2 @@
+# djjango
+mostra configuraçao minima
